@@ -67,7 +67,4 @@ I'm a passionate developer from India, with a keen interest in creating impactfu
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
 </a>
 
----
-<p align="center">
- I can debug better with Headphones 🎧 than caffeine ☕
-</p>
+
