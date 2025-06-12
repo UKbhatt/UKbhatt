@@ -16,7 +16,7 @@ I'm a passionate developer from India, with a keen interest in creating impactfu
 - 💼 Flutter developer Intern.
 - 🌱 Continuously learning and exploring new technologies.
 - 🧠 Enthusiast in App Development,Web Development and Open Source contributions.
-- 📚 I’m currently learning **Node.js**, **Next.js**, and **Docker**
+- 📚 I’m currently working on my project **TALKsy**, fullstack flutter + Nodejs chatting application.
 - 📄 Know more about my experiences [View Resume](https://drive.google.com/drive/folders/1kaxkGnTFg4pzIma1pS11vlWqB4Wx1Auy?usp=drive_link)
 - 📫 Reach me at [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
