@@ -13,10 +13,10 @@ I'm a passionate developer from India, with a keen interest in creating impactfu
 
 - 👨‍💻  All of my projects are available at [My Portfolio](https://portfolio-six-tau-60.vercel.app/)
 - 🎓 Final year CS undergraduate at Indian Institute of Information Technology, Nagpur.
-- 💼 Flutter developer Intern.
+- 💼 Aspiring Developer.
 - 🌱 Continuously learning and exploring new technologies.
 - 🧠 Enthusiast in App Development,Web Development and Open Source contributions.
-- 📚 I’m currently working on my project **TALKsy**, fullstack flutter + Nodejs chatting application.
+- 📚 I’m currently working on my project **TALKsy**, Fullstack Flutter + Nodejs chatting application.
 - 📄 Know more about my experiences [View Resume](https://drive.google.com/drive/folders/1kaxkGnTFg4pzIma1pS11vlWqB4Wx1Auy?usp=drive_link)
 - 📫 Reach me at [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
