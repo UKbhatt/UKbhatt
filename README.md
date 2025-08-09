@@ -17,7 +17,7 @@ India</b><br>
 - 🌱 &nbsp; Continuously learning and exploring new technologies.
 - 🧠 &nbsp; Love App, Web Dev & Open Source.
 - 💬 &nbsp; Currently building SupremeCoding — a MERN Stack Coding platform
-- 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/drive/folders/1kaxkGnTFg4pzIma1pS11vlWqB4Wx1Auy?usp=drive_link)
+- 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/file/d/1UcxqhQPC63ApnZDXCaAGm3kun3TSCRBA/view?usp=drive_link)
 - 📫 &nbsp; Reach me: [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
 ---
@@ -78,20 +78,21 @@ India</b><br>
 ## 🤝 Connect with me:
 <p align="left">
   <a href="mailto:ubhatt2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/utkarsh-bhatt-183325261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/utkarsh_B2004" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ukbhatt" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/UKbhatt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
