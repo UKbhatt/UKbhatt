@@ -16,8 +16,8 @@ India</b><br>
 - 🎓 &nbsp; Final year CS undergraduate at IIIT Nagpur.
 - 🌱 &nbsp; Continuously learning and exploring new technologies.
 - 🧠 &nbsp; Love App, Web Dev & Open Source.
-- 💬 &nbsp; Currently building SupremeCoding — a MERN Stack Coding platform
-- 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/file/d/1UcxqhQPC63ApnZDXCaAGm3kun3TSCRBA/view?usp=drive_link)
+- 💬 &nbsp; Currently building MockMade — An AI based Mock interview platform.
+- 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/file/d/1ZdVcOnyCnxeZarbl4Ug5-MTDpaDHIi1M/view?usp=drive_link)
 - 📫 &nbsp; Reach me: [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
 ---
