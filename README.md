@@ -12,7 +12,7 @@ India</b><br>
 
 ## 🚀 About Me
 
-- 👨‍💻 &nbsp; All of my projects: [My Portfolio](https://portfolio-six-tau-60.vercel.app/)
+- 👨‍💻 &nbsp; All of my projects: [My Portfolio](https://utkarsh-lake.vercel.app)
 - 🎓 &nbsp; Final year CS undergraduate at IIIT Nagpur.
 - 🌱 &nbsp; Continuously learning and exploring new technologies.
 - 🧠 &nbsp; Love App, Web Dev & Open Source.
