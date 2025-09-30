@@ -94,10 +94,5 @@ India</b><br>
   </a>
 </p>
 
-<p align="center">
-  🌪Fools ignore complexity.
-  🧑‍💻 Pragmatists suffer it. 😓 
-  Some can avoid it.
-  ✨ Geniuses remove it. 
-</p>
+### <p align="center"> 🛡️⚔️ He who conquers himself is the mightiest warrior.🔥  </p>
 
