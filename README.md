@@ -64,7 +64,7 @@ India</b><br>
 
 <div >
 
-## 🚀 GitHub Overview  
+## 📈 GitHub Stats    
 
 | ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKbhatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=UKbhatt&theme=tokyonight&hide_border=true) |
 |---|---|
@@ -72,7 +72,7 @@ India</b><br>
 
 ---
 
-### 📊 Contribution Graph  
+## 📊 Contribution Graph  
 ![Utkarsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UKbhatt&theme=tokyo-night&hide_border=true&area=true)
 
 ---
