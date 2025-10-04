@@ -16,7 +16,7 @@ India</b><br>
 - 🎓 &nbsp; Final year CS undergraduate at IIIT Nagpur.
 - 🌱 &nbsp; Continuously learning and exploring new technologies.
 - 🧠 &nbsp; Love App, Web Dev & Open Source.
-- 💬 &nbsp; Currently building MockMade — An AI based Mock interview platform.
+- 💬 &nbsp; Currently building MockMate — An AI based Mock interview platform.
 - 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/file/d/1ZdVcOnyCnxeZarbl4Ug5-MTDpaDHIi1M/view?usp=drive_link)
 - 📫 &nbsp; Reach me: [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
@@ -62,12 +62,23 @@ India</b><br>
 ---
 
 
-## 📈 GitHub Stats
+<div >
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UKbhatt&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UKbhatt&layout=compact&theme=radical)
+## 🚀 GitHub Overview  
+
+| ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKbhatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=UKbhatt&theme=tokyonight&hide_border=true) |
+|---|---|
+
 
 ---
+
+### 📊 Contribution Graph  
+![Utkarsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UKbhatt&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 
@@ -94,5 +105,5 @@ India</b><br>
   </a>
 </p>
 
-### <p align="center"> 🛡️⚔️ He who conquers himself is the mightiest warrior.🔥  </p>
+<p align="center"> ⚔️ He who conquers himself is the mightiest warrior.🔥  </p>
 
