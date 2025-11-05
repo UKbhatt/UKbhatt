@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hey there!, I'm <span style="color:#6851ff;">Utkarsh Bhatt</span>!</h1>
+<h1 align="center">👋 Hey there!, I'm <span style="color:#FFFF;">Utkarsh</span>!</h1>
 
 
 
 <p align="center">
-  <b>🚀 Developer | 👨‍🎓 Final Year CS @IIIT Nagpur | 
+  <b>🚀 Developer | 👨‍🎓 Final Year CSE @IIIT Nagpur | 
 India</b><br>
   <span>💡 Building impactful software, learning everyday, loving open source!</span>
 </p>
@@ -16,7 +16,7 @@ India</b><br>
 - 🎓 &nbsp; Final year CS undergraduate at IIIT Nagpur.
 - 🌱 &nbsp; Continuously learning and exploring new technologies.
 - 🧠 &nbsp; Love App, Web Dev & Open Source.
-- 💬 &nbsp; Currently building MockMate — An AI based Mock interview platform.
+- 💬 &nbsp; Currently building InboxIQ.
 - 📄 &nbsp; More about my experience: [View Resume](https://drive.google.com/file/d/1ZdVcOnyCnxeZarbl4Ug5-MTDpaDHIi1M/view?usp=drive_link)
 - 📫 &nbsp; Reach me: [ubhatt2004@gmail.com](mailto:ubhatt2004@gmail.com)
 
