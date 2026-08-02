@@ -56,21 +56,6 @@ Interests: [App Dev, Web Dev, Open Source and many more]
 
 <br/>
 
-## 🧬 Language & Commit Breakdown
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UKbhatt&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UKbhatt&theme=tokyonight" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UKbhatt&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UKbhatt&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
