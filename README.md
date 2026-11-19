@@ -47,11 +47,7 @@ Interests: [App Dev, Web Dev, Open Source and many more]
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UKbhatt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UKbhatt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-
-
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 <br/>
